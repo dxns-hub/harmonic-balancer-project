@@ -1,3 +1,20 @@
+# Welcome to Ami AI Foundation!
+
+## Our Mission
+We are dedicated to providing access and opportunities for persons with disabilities in their work lives, fostering a sense of community and belonging.
+
+## Our Values
+- **Compassion**: We care deeply about the well-being of every individual.
+- **Strength**: Inspired by the resilience of our community.
+- **Nurturing**: Creating a supportive environment for growth and success.
+- **Exploration**: Encouraging innovation and new possibilities.
+
+## Get Involved
+Join us in making a difference! <http://www.amiai.org/> - currently under development
+
+## Follow Us
+Stay updated with our latest news and events. 
+
 ## Harmoic Balancer Project
 
 - **Overview**: The Harmonic Balancer Project is an advanced simulation and analysis tool for studying complex adaptive systems, with   a focus on human-AI interactions and quantum-inspired algorithms. This project implements an Enhanced Human Quantum Ecosystem model that demonstrates resilience and adaptability in the face of external shocks.
