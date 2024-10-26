@@ -62,6 +62,6 @@ Please note that this project adheres to a [Code of Conduct](CODE_OF_CONDUCT.md)
 
 ## Getting Help
 
-If you need help or have any questions, feel free to reach out by opening an issue on GitHub or contacting [harmnoichorizons@outlook.com](mailto:harmonichorizons@outlook.com).
+If you need help or have any questions, feel free to reach out by opening an issue on GitHub or contacting [matt@amiai.org](mailto:matt@amiai.org).
 
 Thank you for your contributions!
