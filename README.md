@@ -1,4 +1,4 @@
-# Welcome to Ami AI Foundation!
+# Welcome to Ami AI Foundation
 
 ## Our Mission
 We are dedicated to providing access and opportunities for persons with disabilities in their work lives, fostering a sense of community and belonging.
