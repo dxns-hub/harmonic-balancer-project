@@ -10,7 +10,7 @@ We are dedicated to providing access and opportunities for persons with disabili
 - **Exploration**: Encouraging innovation and new possibilities.
 
 ## Get Involved
-Join us in making a difference! <http://www.amiai.foundation
+Join us in making a difference! <http://www.amiai.foundation>
 
 ## Follow Us
 Stay updated with our latest news and events. 
