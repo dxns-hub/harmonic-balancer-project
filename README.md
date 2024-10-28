@@ -17,7 +17,7 @@ Stay updated with our latest news and events.
 
 ## Harmoic Balancer Project
 
-- **Harmonic Balancer**: A mathematical tuning fork designed to help individuals find balance in various aspects of life. Our tool leverages key principles to optimize performance and efficiency:
+A mathematical tuning fork designed to help individuals find balance in various aspects of life. Our tool leverages key principles to optimize performance and efficiency:
 
 - **R (Resonance)**: Identify and optimize patterns within systems.
 - **F (Fuel Efficiency)**: Ensure efficient utilization of resources.
