@@ -34,7 +34,6 @@ This equation can be adapted to balance other equations by incorporating differe
 - **Equation**: $$\sqrt{(R \cdot F^2) + E^2} \cdot e$$
 
 We also incorporate fundamental mathematical constants like Pi (π), Euler’s number €, Phi (φ), and Psi (ψ) to explore their potential in achieving optimal balance and efficiency.
-
 Join us in exploring the science of balance and harmony to enhance productivity and well-being.
 
 - **Features**
