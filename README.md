@@ -24,7 +24,7 @@ Stay updated with our latest news and events.
 - **E (Energy Conversion)**: Optimize the conversion of inputs into outputs.
 - **Golden Ratio**: Utilize the golden ratio to achieve natural balance and harmony.
 
-**Equation**: $$\Phi = $$\sqrt{(R \cdot F^2) + E^2}$$
+**Equation**: $$\Phi = \sqrt{(R \cdot F^2) + E^2}$$
 
 This equation can be adapted to balance other equations by incorporating different constants, such as:
 
