@@ -24,14 +24,14 @@ Stay updated with our latest news and events.
 - **E (Energy Conversion)**: Optimize the conversion of inputs into outputs.
 - **Golden Ratio**: Utilize the golden ratio to achieve natural balance and harmony.
 
-**Equation**: $$\Phi = \sqrt{R \cdot F}^2 + E^2$$
+**Equation**: $$\Phi = $$\sqrt{(R \cdot F^2) + E^2}$$
 
 This equation can be adapted to balance other equations by incorporating different constants, such as:
 
-- **Equation**: $$\sqrt{R \cdot F}^2 + E^2 \cdot \Psi$$
-- **Equation**: $$\sqrt{R \cdot F}^2 + E^2 \cdot \pi$$
-- **Equation**: $$\sqrt{R \cdot F}^2 + E^2 \cdot \phi$$
-- **Equation**: $$\sqrt{R \cdot F}^2 + E^2 \cdot e$$
+- **Equation**: $$\sqrt{(R \cdot F^2) + E^2} \cdot \Psi$$
+- **Equation**: $$\sqrt{(R \cdot F^2) + E^2} \cdot \pi$$
+- **Equation**: $$\sqrt{(R \cdot F^2) + E^2} \cdot \phi$$
+- **Equation**: $$\sqrt{(R \cdot F^2) + E^2} \cdot e$$
 
 We also incorporate fundamental mathematical constants like Pi (π), Euler’s number €, Phi (φ), and Psi (ψ) to explore their potential in achieving optimal balance and efficiency.
 
