@@ -21,7 +21,7 @@ We welcome pull requests for bug fixes, improvements, and new features. To submi
 
 2. **Clone the Repository**: Clone your forked repository to your local machine.
     ```sh
-    git clone https://github.com/harmonic-horzons/harmonic-balancer-project-final.git
+    git clone https://github.com/amiaiorg/harmonic-balancer-project.git
     cd harmonic-balancer-project-final
     ```
 
@@ -58,10 +58,10 @@ Please ensure that your code adheres to the following standards:
 
 ### Code of Conduct
 
-Please note that this project adheres to a [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [harmonichorizons@outlook.com](mailto:harmonichorizons@outlook.com).
+Please note that this project adheres to a [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [matt@amiai.org](mailto:matt@amiai.org).
 
 ## Getting Help
 
-If you need help or have any questions, feel free to reach out by opening an issue on GitHub or contacting [harmnoichorizons@outlook.com](mailto:harmonichorizons@outlook.com).
+If you need help or have any questions, feel free to reach out by opening an issue on GitHub or contacting [matt@amiai.org](mailto:matt@amiai.org).
 
 Thank you for your contributions!
